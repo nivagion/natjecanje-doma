@@ -1,0 +1,18 @@
+[
+  {
+    "name": "train.csv",
+    "sha256": "0401ebf334bbfaa4b48f9814b3b56093ffffbc43825853ae5fa1f8b2d119f775"
+  },
+  {
+    "name": "validation.csv",
+    "sha256": "a64de7e6aa5d1b7e1a005fe5d0a43302836ff9d77e762355a66396571f8a0d4d"
+  },
+  {
+    "name": "test.csv",
+    "sha256": "a2eda139f553e08341dead3b43ba9f46c7dd968942c2f51c4bc77eb3e71bc4a2"
+  },
+  {
+    "name": "sample_submission.csv",
+    "sha256": "5c59147bd77b894c46c8deefeb283e1714838061e7297ea2e77474116024f624"
+  }
+]

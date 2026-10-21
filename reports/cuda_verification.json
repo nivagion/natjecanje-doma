@@ -1,0 +1,17 @@
+{
+  "gpu": "NVIDIA GeForce GTX 1660",
+  "torch": "2.11.0+cu128",
+  "cuda_runtime": "12.8",
+  "capability": [
+    7,
+    5
+  ],
+  "bf16_torch_emulated_or_native": true,
+  "bf16_native": false,
+  "tensor_device": "cuda:0",
+  "parameter_device": "cuda:0",
+  "gradient_ok": true,
+  "allocated_mb": 26,
+  "free_mb": 5060,
+  "total_mb": 6144
+}

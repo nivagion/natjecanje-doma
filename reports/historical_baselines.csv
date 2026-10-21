@@ -1,0 +1,4 @@
+model,controller_oof_top3,controller_macro_top3,worst_controller_top3,provided_validation_top3,source
+standalone_lightgbm_typed320,0.89189,0.87964,0.71893,0.92891,natjecanje3/reports/standalone_study/standalone_model_comparison.md
+historical_003_meta_top10,0.89533,0.88340,0.72781,0.93371,natjecanje3/README.md
+historical_004_blend,0.89499,0.88344,0.74260,0.94010,natjecanje3/README.md
